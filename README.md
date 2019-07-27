@@ -7,3 +7,6 @@ Non-agressive scraper that gets ESRI geospatial data by an array of US zipcodes 
 * Puppeteer w/ Chromium - for browser automation
 * Cheerio - for DOM manipulation
 * Sequelize - for data repository
+
+## Generated data
+Please see db/data.db for generated data.
