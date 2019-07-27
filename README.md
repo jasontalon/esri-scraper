@@ -9,4 +9,4 @@ Non-agressive scraper that gets ESRI geospatial data by an array of US zipcodes 
 * Sequelize - for data repository
 
 ## Generated data
-Please see db/data.db for generated data.
+Please download db/data.db for generated data. You can browser the data using DB Browser for SQLite.
